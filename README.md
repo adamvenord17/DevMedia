@@ -1,5 +1,5 @@
 # Social Media Website
-A website for developers built using the MERN stack. Now experience LinkedIn + Stackoverflow at a single place! 
+A website built using the MERN stack. Now experience LinkedIn + Stackoverflow at a single place! 
 
 Create your portfolio profile, add details like your educational credentials and experience, create posts, like/unlike and comment on posts by other members of the community. Users can also give mock quiz on the website to brush up their knowledge. The "Covid Relief" section of the website provides real time tweets related to COVID-19 relief, medicines, oxgyen cylinders etc. 
 
